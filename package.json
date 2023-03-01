@@ -1,0 +1,6 @@
+{
+    "homepage": "https://hoangnhung-wedding.github.io",
+    "dependencies": {
+        "gh-pages": "^4.0.0"
+    }
+}
